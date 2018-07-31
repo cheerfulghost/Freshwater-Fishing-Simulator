@@ -7,6 +7,6 @@ Freshwater Fishing Simulator is copyright 1993, 1995 by Eric S. Hamilton.
 
 js-dos was created by @caiiijcuk https://js-dos.com/getting-started/ released under the MIT license.
 
-DOSBox is licensed under the terms of the GPL.
+DOSBox is licensed under the terms of the GPL.  https://www.dosbox.com/
 
-Everything else I created such as HTML or .BAT files are MIT Licensed.  https://www.dosbox.com/
+Everything else I created such as HTML or .BAT files are MIT Licensed.

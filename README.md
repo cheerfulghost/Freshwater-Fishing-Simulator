@@ -1,7 +1,7 @@
 # Freshwater-Fishing-Simulator
 The BBS game Freshwater Fishing Simulator running in DOSBOX on a webpage.
 
-https://jdodson.github.io/Freshwater-Fishing-Simulator/
+https://cheerfulghost.github.io/Freshwater-Fishing-Simulator/
 
 Freshwater Fishing Simulator is copyright 1993, 1995 by Eric S. Hamilton.
 
